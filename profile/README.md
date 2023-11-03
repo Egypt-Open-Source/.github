@@ -26,8 +26,7 @@ We have several objectives with this platform:
 - Showcase noteworthy projects developed by Egyptian developers.
 - Enrich technical knowledge in the field as much as possible.
 
-  ## Join our Organization!
+## Join our Organization!
 
-  Contact us at:
-  - Email: loaym97710@gmail.com
-  - discord: <a href="https://discord.gg/Zjj9Vx8se">Click here to join our server!</a>
+Contact us at:
+- discord: <a href="https://discord.gg/Zjj9Vx8se">Click here to join our server!</a>
