@@ -29,4 +29,5 @@ We have several objectives with this platform:
 ## Join our Organization!
 
 Contact us at:
-- discord: <a href="https://discord.gg/Zjj9Vx8se">Click here to join our server!</a>
+- discord: <a href="https://discord.gg/vrsWjb8C5T">Click here to join our server!</a>
+
