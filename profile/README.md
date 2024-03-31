@@ -1,3 +1,5 @@
+[![committers.top badge](https://org-badge.committers.top/egypt_public/egypt-open-source.svg)](https://org-badge.committers.top/egypt_public/egypt-open-source)
+
 # Egypt Open Source 🇪🇬
 
 An open-source platform created by Egyptian developers for Egyptian developers.
