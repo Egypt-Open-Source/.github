@@ -1,5 +1,5 @@
 
-[![committers.top badge](https://org-badge.committers.top/egypt_public/egypt-open-source.svg)](https://org-badge.committers.top/egypt_public/egypt-open-source)
+[![committers.top badge](https://org-badge.committers.top/egypt/egypt-open-source.svg)](https://org-badge.committers.top/egypt/egypt-open-source)
 
 # Egypt Open Source 🇪🇬
 
